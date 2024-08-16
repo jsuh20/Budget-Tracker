@@ -1,2 +1,2 @@
-# Sime CRUD System Budget-Tracker
+# Simple CRUD System Budget-Tracker
 
